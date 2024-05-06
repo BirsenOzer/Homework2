@@ -1,10 +1,15 @@
 
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 
 .footer {
     background-color: #2e2f42;
 }
 
-.footer.text {
+.footer.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -13,6 +18,13 @@
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
+.footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
 
 .span {
     color: #F4F4FD
