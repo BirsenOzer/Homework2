@@ -107,8 +107,8 @@ background-color: #2e2f42 ;
     color: #2e2f42;
 }
 
-.section-three-list{
-    color: #FFFFFF;
+.section-three .list {
+    background-color: #FFFFFF;
 }
 .section-three-ul .subtitle {
     font-weight: 500;
