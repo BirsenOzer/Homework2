@@ -27,6 +27,14 @@ body {
     color: #2e2f42;
 }
 
+.f-list:hover {
+    color: #404bbf;
+}
+
+.f-list:focus {
+    color: #404bbf;
+}
+
 
 .address-list {
     font-style: normal;
@@ -40,11 +48,11 @@ body {
 }
 
 .addr-list:hover {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 .addr-list:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 
