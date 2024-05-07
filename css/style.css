@@ -39,14 +39,13 @@ body {
     color: #434455;
 }
 
-.f-list:hover {
-    color: #404bbf;
+.addr-list:hover {
+    background-color: #404bbf;
 }
 
-.f-list:focus {
-    color: #404bbf;
+.addr-list:focus {
+    background-color: #404bbf;
 }
-
 
 
 
