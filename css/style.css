@@ -107,7 +107,7 @@ background-color: #2e2f42 ;
     color: #2e2f42;
 }
 
-.section-three .section-three-ul {
+.section-three .list {
     color: #FFFFFF;
 }
 .section-three-ul .subtitle {
@@ -116,6 +116,10 @@ background-color: #2e2f42 ;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.section-three .text {
+    color: #4344;
 }
 
 
