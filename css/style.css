@@ -27,6 +27,7 @@ body {
     color: #2e2f42;
 }
 
+
 .address-list {
     font-style: normal;
 }
@@ -38,11 +39,11 @@ body {
     color: #434455;
 }
 
-.addr-list:hover {
+.f-list:hover {
     color: #404bbf;
 }
 
-.addr-list:focus {
+.f-list:focus {
     color: #404bbf;
 }
 
