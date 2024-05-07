@@ -5,6 +5,7 @@ body {
     background-color: #FFFFFF;
 }
 
+
 .header-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -14,10 +15,10 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-
 .header-span {
     color: #2e2f42;
 }
+
 
 .f-list {
     font-weight: 500;
@@ -26,11 +27,9 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .f-list:hover {
     color: #404bbf;
 }
-
 .f-list:focus {
     color: #404bbf;
 }
@@ -39,33 +38,31 @@ body {
 .address-list {
     font-style: normal;
 }
-
 .addr-list {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-
 .addr-list:hover {
     color: #404bbf;
 }
-
 .addr-list:focus {
     color: #404bbf;
 }
 
+
 .section1 {
 background-color: #2e2f42 ;
 }
-
-.title {
+.title-1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
+
 
 .btn {
     background-color: #4d5ae5;
@@ -77,12 +74,24 @@ background-color: #2e2f42 ;
     color: #FFFFFF;
     cursor: pointer;
 }
-
 .btn:hover {
     background-color: #404bbf;
 }
 .btn:focus {
     background-color: #404bbf;
+}
+
+
+.title-2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
