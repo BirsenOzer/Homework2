@@ -38,6 +38,14 @@ body {
     color: #434455;
 }
 
+.addr-list:hover {
+    color: #404bbf;
+}
+
+.addr-list:focus {
+    color: #404bbf;
+}
+
 
 
 
